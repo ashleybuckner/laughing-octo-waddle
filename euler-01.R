@@ -1,3 +1,5 @@
+# Project Euler problem 1
+
 n<-0
 n3<-0
 n5<-0
